@@ -1,1 +1,2 @@
-# web_scraper.py
+Web Scraper for Headlines & Quotes
+A Python project that extracts technology headlines from websites using Requests and BeautifulSoup. The program fetches webpage content, parses HTML, extracts headlines, displays them, and saves the results into a text file.
